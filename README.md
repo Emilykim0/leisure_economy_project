@@ -6,7 +6,26 @@
 
 ## 📁 폴더 구조
 
-leisure_economy_project/ │ ├── data/ # 데이터 폴더 │ ├── active_economy_data.csv │ ├── inactive_economy_data.csv │ ├── employment_data.csv │ ├── unemployment_data.csv │ ├── economy.csv │ ├── economy_population.csv │ ├── income_impacts.csv │ ├── interest_rate.csv │ ├── hotspring_data.csv │ ├── park_fixed.csv │ ├── ski_fixed.csv │ ├── tour_fixed.csv │ ├── leisure_tour_김영혜.sql # SQL 테이블 생성 및 데이터 삽입 쿼리 ├── outdoor_activity.ipynb # Python 분석 메인 노트북 ├── test.py # Python 테스트용 스크립트 └── README.md
+```
+leisure_economy_project/
+├── data/                            # 데이터 폴더
+│   ├── active_economy_data.csv
+│   ├── inactive_economy_data.csv
+│   ├── employment_data.csv
+│   ├── unemployment_data.csv
+│   ├── economy.csv
+│   ├── economy_population.csv
+│   ├── income_impacts.csv
+│   ├── interest_rate.csv
+│   ├── hotspring_data.csv
+│   ├── park_fixed.csv
+│   ├── ski_fixed.csv
+│   └── tour_fixed.csv
+├── leisure_tour_김영혜.sql          # SQL 테이블 생성 및 데이터 삽입 쿼리
+├── outdoor_activity.ipynb           # Python 분석 메인 노트북
+├── test.py                          # Python 테스트용 스크립트
+└── README.md                        # 프로젝트 설명
+```
 
 ---
 
